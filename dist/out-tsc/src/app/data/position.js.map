@@ -1,0 +1,1 @@
+{"version":3,"file":"position.js","sourceRoot":"","sources":["../../../../../src/app/data/position.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,QAAQ;IAOjB;QACI,IAAI,CAAC,GAAG,GAAG,EAAE,CAAC;QACd,IAAI,CAAC,YAAY,GAAG,EAAE,CAAC;QACvB,IAAI,CAAC,mBAAmB,GAAG,EAAE,CAAC;QAC9B,IAAI,CAAC,kBAAkB,GAAG,CAAC,CAAC;QAC5B,IAAI,CAAC,GAAG,GAAG,CAAC,CAAC;IACjB,CAAC;CACJ"}
